@@ -1,0 +1,11 @@
+uvicorn
+langchain
+langserve
+pydantic
+requests
+fastapi
+dotenv
+sqlalchemy
+langchain_openai
+langchain_experimental
+langchain_community
